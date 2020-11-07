@@ -1,0 +1,14 @@
+D:\Universidad\Desarrollo movil\Tarea1\Tarea1\Tarea1\bin\Debug\netstandard2.0\Tarea1.deps.json
+D:\Universidad\Desarrollo movil\Tarea1\Tarea1\Tarea1\bin\Debug\netstandard2.0\Tarea1.dll
+D:\Universidad\Desarrollo movil\Tarea1\Tarea1\Tarea1\bin\Debug\netstandard2.0\ref\Tarea1.dll
+D:\Universidad\Desarrollo movil\Tarea1\Tarea1\Tarea1\bin\Debug\netstandard2.0\Tarea1.pdb
+D:\Universidad\Desarrollo movil\Tarea1\Tarea1\Tarea1\obj\Debug\netstandard2.0\Tarea1.csprojAssemblyReference.cache
+D:\Universidad\Desarrollo movil\Tarea1\Tarea1\Tarea1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Universidad\Desarrollo movil\Tarea1\Tarea1\Tarea1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Universidad\Desarrollo movil\Tarea1\Tarea1\Tarea1\obj\Debug\netstandard2.0\Tarea1.AssemblyInfoInputs.cache
+D:\Universidad\Desarrollo movil\Tarea1\Tarea1\Tarea1\obj\Debug\netstandard2.0\Tarea1.AssemblyInfo.cs
+D:\Universidad\Desarrollo movil\Tarea1\Tarea1\Tarea1\obj\Debug\netstandard2.0\Tarea1.csproj.CoreCompileInputs.cache
+D:\Universidad\Desarrollo movil\Tarea1\Tarea1\Tarea1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Universidad\Desarrollo movil\Tarea1\Tarea1\Tarea1\obj\Debug\netstandard2.0\Tarea1.dll
+D:\Universidad\Desarrollo movil\Tarea1\Tarea1\Tarea1\obj\Debug\netstandard2.0\ref\Tarea1.dll
+D:\Universidad\Desarrollo movil\Tarea1\Tarea1\Tarea1\obj\Debug\netstandard2.0\Tarea1.pdb
